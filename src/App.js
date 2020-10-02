@@ -46,8 +46,6 @@ function App() {
       <button onClick={handleAddRepository}>Adicionar</button>
     </div>
   );
-
-  
 }
 
 export default App;
